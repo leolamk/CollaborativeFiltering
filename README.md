@@ -1,10 +1,9 @@
-# Project 4: Collaborative Filtering
+# Collaborative Filtering
 
 ![image](figs/recommend.jpg)
 
 Term: Spring 2018
 
-+ Team # 2
 + Projec title: Algorithm implementation and evaluation
 + Team members
 	+ Jiang, Yiran
@@ -25,15 +24,15 @@ Term: Spring 2018
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
+- Lam, Leo: Neighbours selecting on Weight Threshold, Best-n-estimator and combined on Microsoft Web data. Ranked score evaluation. prediction function.
+
 - Xue,zhongxing: Implementation of cluster models, optimization of cluster model parameters.
 
 - Jiang, yiran: SimRank, Spearman Similarity, Vector Similarity, main.Rmd
 
 - Wan, Qianhui: Similarity Weight on Spearman Similarity, Vector Similarity, MAE evaluation, Github organization
 
-- Lam, Leo: Neighbours selecting on Weight Threshold, Best-n-estimator and combined on Microsoft Web data. Ranked score evaluation. prediction function
-
-- Zhu Qianli: Neighbours selecting on Weight Threshold, Best-n-estimator and combined on EachMovie data. Prediction  function
+- Zhu, Qianli: Neighbours selecting on Weight Threshold, Best-n-estimator and combined on EachMovie data. Prediction  function
 
 
 
